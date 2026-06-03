@@ -1,32 +1,32 @@
-# Projetos Praticos
+# Projetos práticos
 
-Os projetos ajudam a transformar estudo em experiencia concreta. Cada projeto pode ser feito de forma simples, usando ferramentas gratuitas ou de facil acesso.
+Os projetos ajudam a transformar estudo em experiência concreta. Cada projeto pode ser feito de forma simples, usando ferramentas gratuitas ou de fácil acesso.
 
-## Projeto 1: Diagnostico De Rotina Administrativa
+## Projeto 1: Diagnóstico de Rotina Administrativa
 
-Escolha uma rotina, como controle de documentos, atendimento, compras, agenda ou organizacao de tarefas.
+Escolha uma rotina, como controle de documentos, atendimento, compras, agenda ou organização de tarefas.
 
 Entregue:
 
-- descricao da rotina;
+- descrição da rotina;
 - pessoas envolvidas;
 - problemas principais;
 - riscos;
 - oportunidades de melhoria.
 
-## Projeto 2: Mapa De Processo
+## Projeto 2: Mapa de Processo
 
 Transforme uma rotina em um fluxo visual ou textual.
 
 Entregue:
 
 - etapas do processo;
-- responsavel por cada etapa;
-- entradas e saidas;
+- responsável por cada etapa;
+- entradas e saídas;
 - gargalos;
-- sugestoes de melhoria.
+- sugestões de melhoria.
 
-## Projeto 3: Painel Simples De Indicadores
+## Projeto 3: Painel Simples de Indicadores
 
 Crie uma planilha para acompanhar uma rotina.
 
@@ -34,20 +34,20 @@ Entregue:
 
 - tabela de dados;
 - indicadores principais;
-- grafico simples;
-- interpretacao dos resultados;
-- decisoes possiveis a partir dos dados.
+- gráfico simples;
+- interpretação dos resultados;
+- decisões possíveis a partir dos dados.
 
-## Projeto 4: Automacao De Tarefa Repetitiva
+## Projeto 4: Automação de Tarefa Repetitiva
 
 Escolha uma tarefa repetitiva e automatize parte dela.
 
 Exemplos:
 
-- formulario que alimenta planilha;
-- alerta automatico de prazo;
+- formulário que alimenta planilha;
+- alerta automático de prazo;
 - modelo de e-mail;
-- organizacao automatica de respostas;
+- organização automática de respostas;
 - checklist recorrente.
 
 Entregue:
@@ -56,9 +56,9 @@ Entregue:
 - ferramenta usada;
 - passo a passo;
 - resultado obtido;
-- limites da automacao.
+- limites da automação.
 
-## Projeto 5: Biblioteca De Prompts Administrativos
+## Projeto 5: Biblioteca de Prompts Administrativos
 
 Crie prompts para tarefas reais.
 
@@ -66,10 +66,10 @@ Categorias sugeridas:
 
 - planejamento;
 - resumo de documentos;
-- analise de problemas;
+- análise de problemas;
 - atendimento;
-- criacao de checklists;
-- revisao de textos;
+- criação de checklists;
+- revisão de textos;
 - estudo de mercado.
 
 Entregue:
@@ -77,21 +77,21 @@ Entregue:
 - prompt;
 - objetivo;
 - exemplo de entrada;
-- exemplo de saida esperada;
-- cuidados de verificacao.
+- exemplo de saída esperada;
+- cuidados de verificação.
 
-## Projeto Final: Solucao Administrativa Com IA E Automacao
+## Projeto Final: Solução Administrativa com IA e Automação
 
-Integre os aprendizados em um caso unico.
+Integre os aprendizados em um caso único.
 
 Entregue:
 
 - problema escolhido;
-- diagnostico;
+- diagnóstico;
 - processo atual;
 - proposta de melhoria;
 - uso de dados;
-- uso de automacao;
+- uso de automação;
 - uso de IA;
 - resultado esperado;
-- proximos passos.
+- próximos passos.

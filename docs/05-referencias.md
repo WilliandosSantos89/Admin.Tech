@@ -1,47 +1,47 @@
-# Referencias
+# Referências
 
-Esta pagina reune fontes para aprofundamento. A lista deve crescer com contribuicoes da comunidade.
+Esta página reúne fontes para aprofundamento. A lista deve crescer com contribuições da comunidade.
 
-## Administracao E Gestao
+## Administração e Gestão
 
-- Fundamentos de administracao: planejamento, organizacao, direcao e controle.
-- Gestao de processos: mapeamento, padronizacao, melhoria continua e indicadores.
-- Gestao de projetos: escopo, prazo, custo, qualidade, riscos e comunicacao.
-- Estrategia: analise de ambiente, objetivos, metas e planos de acao.
+- Fundamentos de administração: planejamento, organização, direção e controle.
+- Gestão de processos: mapeamento, padronização, melhoria contínua e indicadores.
+- Gestão de projetos: escopo, prazo, custo, qualidade, riscos e comunicação.
+- Estratégia: análise de ambiente, objetivos, metas e planos de ação.
 
-## Transformacao Digital
+## Transformação Digital
 
-- digitalizacao de processos;
+- digitalização de processos;
 - cultura de dados;
-- automacao de rotinas;
-- experiencia do usuario em servicos administrativos;
-- seguranca e privacidade da informacao.
+- automação de rotinas;
+- experiência do usuário em serviços administrativos;
+- segurança e privacidade da informação.
 
-## Dados E Indicadores
+## Dados e Indicadores
 
 - planilhas;
-- tabelas dinamicas;
-- visualizacao de dados;
+- tabelas dinâmicas;
+- visualização de dados;
 - indicadores de desempenho;
-- tomada de decisao baseada em evidencias.
+- tomada de decisão baseada em evidências.
 
-## Inteligencia Artificial
+## Inteligência Artificial
 
 - fundamentos de IA generativa;
 - engenharia de prompts;
-- verificacao de informacoes;
+- verificação de informações;
 - vieses e limites de modelos;
-- uso responsavel de IA em trabalho e estudo.
+- uso responsável de IA em trabalho e estudo.
 
-## Como Sugerir Uma Referencia
+## Como sugerir uma referência
 
-Ao sugerir uma nova referencia, informe:
+Ao sugerir uma nova referência, informe:
 
-- titulo;
-- autor ou organizacao;
+- título;
+- autor ou organização;
 - link, quando houver;
 - tipo de material;
-- por que ela e util para a trilha;
-- modulo relacionado.
+- por que ela é útil para a trilha;
+- módulo relacionado.
 
-Priorize materiais acessiveis, confiaveis, atualizados e com linguagem adequada para iniciantes.
+Priorize materiais acessíveis, confiáveis, atualizados e com linguagem adequada para iniciantes.

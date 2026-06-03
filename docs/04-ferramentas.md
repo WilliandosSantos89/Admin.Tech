@@ -1,8 +1,8 @@
 # Ferramentas
 
-Esta lista e inicial e deve ser atualizada pela comunidade. A escolha da ferramenta depende do objetivo, do acesso disponivel e do nivel de experiencia.
+Esta lista é inicial e deve ser atualizada pela comunidade. A escolha da ferramenta depende do objetivo, do acesso disponível e do nível de experiência.
 
-## Organizacao E Tarefas
+## Organização e Tarefas
 
 - Trello
 - Notion
@@ -11,7 +11,7 @@ Esta lista e inicial e deve ser atualizada pela comunidade. A escolha da ferrame
 - Google Keep
 - Microsoft To Do
 
-## Documentos E Conhecimento
+## Documentos e Conhecimento
 
 - Google Docs
 - Microsoft Word
@@ -19,7 +19,7 @@ Esta lista e inicial e deve ser atualizada pela comunidade. A escolha da ferrame
 - Obsidian
 - GitHub Markdown
 
-## Planilhas E Dados
+## Planilhas e Dados
 
 - Google Sheets
 - Microsoft Excel
@@ -27,14 +27,14 @@ Esta lista e inicial e deve ser atualizada pela comunidade. A escolha da ferrame
 - Looker Studio
 - Power BI
 
-## Formularios E Coleta
+## Formulários e Coleta
 
 - Google Forms
 - Microsoft Forms
 - Typeform
 - Tally
 
-## Automacao
+## Automação
 
 - Zapier
 - Make
@@ -42,7 +42,7 @@ Esta lista e inicial e deve ser atualizada pela comunidade. A escolha da ferrame
 - Google Apps Script
 - n8n
 
-## Inteligencia Artificial
+## Inteligência Artificial
 
 - ChatGPT
 - Copilot
@@ -50,22 +50,22 @@ Esta lista e inicial e deve ser atualizada pela comunidade. A escolha da ferrame
 - Claude
 - Perplexity
 
-## Criterios Para Escolher Ferramentas
+## Critérios para Escolher Ferramentas
 
 Antes de adotar uma ferramenta, avalie:
 
 - custo;
 - facilidade de uso;
 - privacidade dos dados;
-- exportacao das informacoes;
-- integracoes;
+- exportação das informações;
+- integrações;
 - curva de aprendizado;
-- suporte em portugues;
+- suporte em português;
 - possibilidade de uso gratuito.
 
 ## Cuidados
 
-- Nao coloque dados sensiveis em ferramentas sem entender politicas de privacidade.
+- Não coloque dados sensíveis em ferramentas sem entender políticas de privacidade.
 - Evite depender de uma ferramenta sem saber exportar seus dados.
 - Documente fluxos para que outras pessoas consigam entender e manter.
-- Em tarefas criticas, revise resultados gerados por IA.
+- Em tarefas críticas, revise resultados gerados por IA.

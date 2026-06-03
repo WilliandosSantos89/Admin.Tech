@@ -1,34 +1,34 @@
 ---
-name: Ferramenta ou referencia
-about: Sugira uma ferramenta, livro, curso, artigo ou documentacao
-title: "[Referencia] "
+name: Ferramenta ou referência
+about: Sugira uma ferramenta, livro, curso, artigo ou documentação
+title: "[Referência] "
 labels: referencia
 assignees: ""
 ---
 
-## Tipo de sugestao
+## Tipo de sugestão
 
-Marque uma opcao:
+Marque uma opção:
 
 - [ ] Ferramenta
 - [ ] Livro
 - [ ] Curso
 - [ ] Artigo
-- [ ] Documentacao
+- [ ] Documentação
 - [ ] Outro
 
 ## Nome
 
-Informe o nome da ferramenta ou referencia.
+Informe o nome da ferramenta ou referência.
 
 ## Link
 
 Adicione o link, se houver.
 
-## Por que isso e util?
+## Por que isso é útil?
 
 Explique como ajuda a trilha.
 
-## Modulo relacionado
+## Módulo relacionado
 
-Informe o modulo ou tema relacionado.
+Informe o módulo ou tema relacionado.

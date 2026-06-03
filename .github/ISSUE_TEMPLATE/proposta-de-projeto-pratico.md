@@ -1,5 +1,5 @@
 ---
-name: Proposta de projeto pratico
+name: Proposta de projeto prático
 about: Sugira um desafio ou atividade aplicada
 title: "[Projeto] "
 labels: projeto-pratico
@@ -12,24 +12,24 @@ Descreva o desafio em uma frase.
 
 ## Problema que o projeto resolve
 
-Explique a situacao pratica.
+Explique a situação prática.
 
-## Conteudos aplicados
+## Conteúdos aplicados
 
 Liste os temas da trilha envolvidos.
 
-## Entregavel esperado
+## Entregável esperado
 
-Exemplo: planilha, painel, automacao, documento, prompt, fluxo.
+Exemplo: planilha, painel, automação, documento, prompt, fluxo.
 
-## Nivel sugerido
+## Nível sugerido
 
-Marque uma opcao:
+Marque uma opção:
 
 - [ ] Iniciante
-- [ ] Intermediario
-- [ ] Avancado
+- [ ] Intermediário
+- [ ] Avançado
 
-## Criterios de conclusao
+## Critérios de conclusão
 
-Como saber que o projeto foi concluido?
+Como saber que o projeto foi concluído?

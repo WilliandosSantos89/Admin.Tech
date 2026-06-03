@@ -1,134 +1,134 @@
-# Trilha De Aprendizado
+# Trilha de aprendizado
 
-Esta trilha organiza o estudo em etapas progressivas. Cada modulo deve gerar um entregavel pratico.
+Esta trilha organiza o estudo em etapas progressivas. Cada módulo deve gerar um entregável prático.
 
-## Modulo 0: Preparacao
+## Módulo 0: Preparação
 
-Aula completa: [Modulo 0: Preparacao e metodo autodidata](modulos/modulo-00-preparacao.md).
+Aula completa: [Módulo 0: Preparação e método autodidata](modulos/modulo-00-preparacao.md).
 
 **Objetivo:** montar o ambiente de estudo e definir uma rotina realista.
 
 Estude:
 
-- como usar este repositorio;
-- como organizar arquivos e anotacoes;
-- como criar um diario de aprendizado;
+- como usar este repositório;
+- como organizar arquivos e anotações;
+- como criar um diário de aprendizado;
 - como definir metas pequenas.
 
-Entregavel:
+Entregável:
 
-- plano semanal de estudo com horario, temas e metas.
+- plano semanal de estudo com horário, temas e metas.
 
-## Modulo 1: Fundamentos De Administracao Digital
+## Módulo 1: Fundamentos de Administração Digital
 
-**Objetivo:** entender como a administracao muda quando processos, dados e ferramentas digitais entram na rotina.
+**Objetivo:** entender como a administração muda quando processos, dados e ferramentas digitais entram na rotina.
 
 Estude:
 
-- organizacoes e areas administrativas;
-- planejamento, execucao e controle;
-- eficiencia, eficacia e efetividade;
-- transformacao digital em pequenas rotinas.
+- organizações e áreas administrativas;
+- planejamento, execução e controle;
+- eficiência, eficácia e efetividade;
+- transformação digital em pequenas rotinas.
 
-Entregavel:
+Entregável:
 
-- mapa simples de uma organizacao, setor ou rotina administrativa.
+- mapa simples de uma organização, setor ou rotina administrativa.
 
-## Modulo 2: Processos E Melhoria Continua
+## Módulo 2: Processos e Melhoria Contínua
 
 **Objetivo:** aprender a enxergar atividades como processos que podem ser analisados e melhorados.
 
 Estude:
 
-- entrada, atividade, saida e responsavel;
+- entrada, atividade, saída e responsável;
 - gargalos e retrabalho;
-- padronizacao;
-- indicadores basicos;
-- melhoria continua.
+- padronização;
+- indicadores básicos;
+- melhoria contínua.
 
-Entregavel:
+Entregável:
 
 - mapa de processo com problemas identificados e oportunidades de melhoria.
 
-## Modulo 3: Produtividade E Ferramentas Digitais
+## Módulo 3: Produtividade e Ferramentas Digitais
 
-**Objetivo:** criar um sistema simples de organizacao para tarefas, documentos, prazos e informacoes.
+**Objetivo:** criar um sistema simples de organização para tarefas, documentos, prazos e informações.
 
 Estude:
 
-- gestao de tarefas;
-- organizacao de arquivos;
+- gestão de tarefas;
+- organização de arquivos;
 - agendas e lembretes;
 - bases de conhecimento;
-- boas praticas de documentacao.
+- boas práticas de documentação.
 
-Entregavel:
+Entregável:
 
-- sistema pessoal ou administrativo de organizacao.
+- sistema pessoal ou administrativo de organização.
 
-## Modulo 4: Dados Para Tomada De Decisao
+## Módulo 4: Dados para Tomada de Decisão
 
-**Objetivo:** usar dados simples para acompanhar rotinas e apoiar decisoes.
+**Objetivo:** usar dados simples para acompanhar rotinas e apoiar decisões.
 
 Estude:
 
 - coleta e limpeza de dados;
 - planilhas;
 - tabelas;
-- graficos;
+- gráficos;
 - indicadores;
-- leitura critica de numeros.
+- leitura crítica de números.
 
-Entregavel:
+Entregável:
 
 - planilha ou painel simples para acompanhar um processo.
 
-## Modulo 5: Automacao Administrativa
+## Módulo 5: Automação Administrativa
 
 **Objetivo:** automatizar uma rotina repetitiva sem perder controle sobre o processo.
 
 Estude:
 
-- gatilhos e acoes;
-- formularios;
-- notificacoes;
-- integracoes entre ferramentas;
-- documentacao de fluxos.
+- gatilhos e ações;
+- formulários;
+- notificações;
+- integrações entre ferramentas;
+- documentação de fluxos.
 
-Entregavel:
+Entregável:
 
 - fluxo automatizado documentado com problema, ferramenta, passo a passo e resultado.
 
-## Modulo 6: IA Aplicada A Administracao
+## Módulo 6: IA Aplicada à Administração
 
-**Objetivo:** aplicar IA em tarefas administrativas com criterio e responsabilidade.
+**Objetivo:** aplicar IA em tarefas administrativas com critério e responsabilidade.
 
 Estude:
 
 - prompts;
 - pesquisa assistida;
-- resumo e classificacao de informacoes;
+- resumo e classificação de informações;
 - apoio a planejamento;
-- analise de documentos;
-- riscos, vieses e verificacao.
+- análise de documentos;
+- riscos, vieses e verificação.
 
-Entregavel:
+Entregável:
 
 - biblioteca de prompts testados para rotinas administrativas.
 
-## Modulo 7: Projeto Final
+## Módulo 7: Projeto Final
 
-**Objetivo:** integrar administracao, automacao e IA em uma solucao pratica.
+**Objetivo:** integrar administração, automação e IA em uma solução prática.
 
 Escolha um problema real, como:
 
 - controle de tarefas de um setor;
-- organizacao de atendimento;
+- organização de atendimento;
 - acompanhamento financeiro simples;
-- fluxo de inscricoes;
-- gestao de documentos;
+- fluxo de inscrições;
+- gestão de documentos;
 - painel de indicadores.
 
-Entregavel:
+Entregável:
 
-- projeto final com diagnostico, solucao proposta, ferramentas usadas, resultados e proximos passos.
+- projeto final com diagnóstico, solução proposta, ferramentas usadas, resultados e próximos passos.

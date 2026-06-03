@@ -1,85 +1,85 @@
-# Modulo 0: Preparacao E Metodo Autodidata
+# Módulo 0: Preparação e Método Autodidata
 
-Esta e a primeira aula da trilha Administracao Tech. Ela existe para ajudar voce a comecar com calma, organizar seu ambiente de estudo e sair com um plano simples para a primeira semana.
+Esta é a primeira aula da trilha Administração Tech. Ela existe para ajudar você a começar com calma, organizar seu ambiente de estudo e sair com um plano simples para a primeira semana.
 
-## Objetivo Da Aula
+## Objetivo da aula
 
-Ao final desta aula, voce devera ser capaz de:
+Ao final desta aula, você deverá ser capaz de:
 
 - entender como a trilha funciona;
 - definir uma rotina realista de estudo;
-- criar um diario de aprendizado;
+- criar um diário de aprendizado;
 - escolher onde guardar seus materiais;
 - montar seu primeiro plano semanal.
 
-## Para Quem E Esta Aula
+## Para quem é esta aula
 
-Esta aula e para quem esta comecando agora. Voce nao precisa saber programar, usar GitHub ou dominar ferramentas de IA.
+Esta aula é para quem está começando agora. Você não precisa saber programar, usar GitHub ou dominar ferramentas de IA.
 
-O unico requisito e separar um pequeno tempo para estudar e registrar o que esta aprendendo.
+O único requisito é separar um pequeno tempo para estudar e registrar o que está aprendendo.
 
-## Tempo Sugerido
+## Tempo sugerido
 
 - Leitura: 20 minutos
-- Organizacao do ambiente: 20 minutos
-- Atividade pratica: 30 a 40 minutos
-- Revisao final: 10 minutos
+- Organização do ambiente: 20 minutos
+- Atividade prática: 30 a 40 minutos
+- Revisão final: 10 minutos
 
 Tempo total aproximado: 1h20.
 
-## Ideia Central
+## Ideia central
 
-Aprender de forma autodidata nao significa estudar sem direcao. Significa assumir responsabilidade pelo proprio caminho, usando um metodo simples:
+Aprender de forma autodidata não significa estudar sem direção. Significa assumir responsabilidade pelo próprio caminho, usando um método simples:
 
 1. escolher um objetivo pequeno;
-2. estudar um conteudo por vez;
-3. aplicar em uma atividade pratica;
+2. estudar um conteúdo por vez;
+3. aplicar em uma atividade prática;
 4. registrar o que aprendeu;
-5. revisar e ajustar o proximo passo.
+5. revisar e ajustar o próximo passo.
 
-Nesta trilha, cada modulo deve gerar um entregavel. O entregavel deste primeiro modulo e um plano semanal de estudos.
+Nesta trilha, cada módulo deve gerar um entregável. O entregável deste primeiro módulo é um plano semanal de estudos.
 
-## O Que E Administracao Tech
+## O que é Administração Tech
 
-Administracao Tech e o uso de administracao, ferramentas digitais, automacao e IA para melhorar rotinas, processos e decisoes.
+Administração Tech é o uso de administração, ferramentas digitais, automação e IA para melhorar rotinas, processos e decisões.
 
-Na pratica, isso pode aparecer em tarefas como:
+Na prática, isso pode aparecer em tarefas como:
 
 - organizar documentos;
 - controlar prazos;
 - mapear um processo;
 - criar uma planilha de acompanhamento;
 - automatizar um aviso;
-- usar IA para resumir informacoes;
-- montar um plano de acao;
-- transformar dados simples em decisao.
+- usar IA para resumir informações;
+- montar um plano de ação;
+- transformar dados simples em decisão.
 
-O foco da trilha e aprender fazendo. Voce nao precisa esperar "estar pronto" para comecar.
+O foco da trilha é aprender fazendo. Você não precisa esperar "estar pronto" para começar.
 
-## Passo 1: Defina Seu Motivo
+## Passo 1: Defina seu motivo
 
 Responda em poucas linhas:
 
-- Por que eu quero estudar Administracao Digital, Automacao e IA?
+- Por que eu quero estudar Administração Digital, Automação e IA?
 - Que problema real eu gostaria de resolver?
 - Em qual rotina da minha vida, estudo ou trabalho esse conhecimento pode ajudar?
 
 Exemplo:
 
-> Quero aprender para organizar melhor rotinas administrativas, usar IA com mais criterio e criar projetos que possam mostrar minha evolucao.
+> Quero aprender para organizar melhor rotinas administrativas, usar IA com mais critério e criar projetos que possam mostrar minha evolução.
 
-## Passo 2: Escolha Seu Local De Estudo
+## Passo 2: Escolha seu local de estudo
 
-Voce precisa de um lugar para guardar anotacoes, atividades e entregaveis.
+Você precisa de um lugar para guardar anotações, atividades e entregáveis.
 
-Escolha uma opcao simples:
+Escolha uma opção simples:
 
 - uma pasta no computador;
 - Google Drive ou OneDrive;
 - Notion;
 - Obsidian;
-- caderno fisico;
-- um repositorio proprio no GitHub, se ja souber usar.
+- caderno físico;
+- um repositório próprio no GitHub, se já souber usar.
 
 Crie uma pasta com este nome:
 
@@ -96,7 +96,7 @@ Dentro dela, crie estas subpastas:
 04-referencias
 ```
 
-## Passo 3: Crie Seu Diario De Aprendizado
+## Passo 3: Crie seu diário de aprendizado
 
 Crie um arquivo chamado:
 
@@ -107,7 +107,7 @@ diario-de-aprendizado.md
 Use este modelo:
 
 ```markdown
-# Diario De Aprendizado
+# Diário de Aprendizado
 
 ## Semana 1
 
@@ -121,40 +121,40 @@ Use este modelo:
 
 **Atividade feita:**
 
-**Proximo passo:**
+**Próximo passo:**
 ```
 
-O diario nao precisa ser bonito. Ele precisa ser honesto e util.
+O diário não precisa ser bonito. Ele precisa ser honesto e útil.
 
-## Passo 4: Monte Sua Rotina Minima
+## Passo 4: Monte sua rotina mínima
 
-Escolha uma rotina que voce consiga cumprir. Comece pequeno.
+Escolha uma rotina que você consiga cumprir. Comece pequeno.
 
 Modelo recomendado:
 
-| Dia | Tempo | Acao |
+| Dia | Tempo | Ação |
 | --- | --- | --- |
-| Dia 1 | 45 min | ler a aula e fazer anotacoes |
-| Dia 2 | 45 min | fazer a atividade pratica |
+| Dia 1 | 45 min | ler a aula e fazer anotações |
+| Dia 2 | 45 min | fazer a atividade prática |
 | Dia 3 | 30 min | revisar e registrar aprendizados |
 
-Se voce tiver mais tempo, aumente aos poucos. Se tiver menos tempo, mantenha pelo menos dois encontros por semana.
+Se você tiver mais tempo, aumente aos poucos. Se tiver menos tempo, mantenha pelo menos dois encontros por semana.
 
-## Passo 5: Use IA Como Apoio
+## Passo 5: Use IA como apoio
 
-Voce pode usar IA para estudar melhor, mas sempre revise o resultado.
+Você pode usar IA para estudar melhor, mas sempre revise o resultado.
 
 Prompt sugerido:
 
 ```text
-Estou estudando Administracao Digital, Automacao e IA como iniciante.
+Estou estudando Administração Digital, Automação e IA como iniciante.
 Explique o conceito de aprendizado autodidata em linguagem simples.
 Depois, me ajude a montar um plano semanal com 3 blocos de estudo de 45 minutos.
 ```
 
-Depois de receber a resposta, ajuste para sua realidade. Nao copie um plano impossivel de cumprir.
+Depois de receber a resposta, ajuste para sua realidade. Não copie um plano impossível de cumprir.
 
-## Atividade Pratica
+## Atividade prática
 
 Crie seu plano semanal de estudos.
 
@@ -162,95 +162,95 @@ Seu plano deve conter:
 
 - objetivo da semana;
 - dias de estudo;
-- tempo disponivel;
-- material que sera estudado;
-- atividade pratica;
-- criterio de conclusao.
+- tempo disponível;
+- material que será estudado;
+- atividade prática;
+- critério de conclusão.
 
 Use este modelo:
 
 ```markdown
-# Plano Semanal De Estudos
+# Plano Semanal de Estudos
 
-## Objetivo Da Semana
+## Objetivo da Semana
 
-Escreva aqui o que voce quer concluir.
+Escreva aqui o que você quer concluir.
 
 ## Agenda
 
-| Dia | Horario | Atividade |
+| Dia | Horário | Atividade |
 | --- | --- | --- |
 | Dia 1 |  |  |
 | Dia 2 |  |  |
 | Dia 3 |  |  |
 
-## Entregavel
+## Entregável
 
-Descreva o que sera produzido.
+Descreva o que será produzido.
 
-## Criterio De Conclusao
+## Critério de Conclusão
 
-Vou considerar esta semana concluida quando:
+Vou considerar esta semana concluída quando:
 
 - [ ] eu tiver lido a aula;
-- [ ] eu tiver criado meu diario de aprendizado;
+- [ ] eu tiver criado meu diário de aprendizado;
 - [ ] eu tiver organizado minha pasta de estudos;
-- [ ] eu tiver registrado meu proximo passo.
+- [ ] eu tiver registrado meu próximo passo.
 ```
 
-## Exemplo Preenchido
+## Exemplo preenchido
 
 ```markdown
-# Plano Semanal De Estudos
+# Plano Semanal de Estudos
 
-## Objetivo Da Semana
+## Objetivo da Semana
 
 Entender como a trilha funciona e preparar meu ambiente de estudo.
 
 ## Agenda
 
-| Dia | Horario | Atividade |
+| Dia | Horário | Atividade |
 | --- | --- | --- |
-| Segunda | 20h | ler o Modulo 0 e fazer anotacoes |
-| Quarta | 20h | criar pasta de estudos e diario |
-| Sexta | 19h30 | revisar aprendizados e definir proximo modulo |
+| Segunda | 20h | ler o Módulo 0 e fazer anotações |
+| Quarta | 20h | criar pasta de estudos e diário |
+| Sexta | 19h30 | revisar aprendizados e definir o próximo módulo |
 
-## Entregavel
+## Entregável
 
-Uma pasta organizada com diario de aprendizado e plano semanal.
+Uma pasta organizada com diário de aprendizado e plano semanal.
 
-## Criterio De Conclusao
+## Critério de Conclusão
 
-Vou considerar esta semana concluida quando:
+Vou considerar esta semana concluída quando:
 
 - [x] eu tiver lido a aula;
-- [x] eu tiver criado meu diario de aprendizado;
+- [x] eu tiver criado meu diário de aprendizado;
 - [x] eu tiver organizado minha pasta de estudos;
-- [x] eu tiver registrado meu proximo passo.
+- [x] eu tiver registrado meu próximo passo.
 ```
 
-## Perguntas De Revisao
+## Perguntas de revisão
 
-Responda no seu diario:
+Responda no seu diário:
 
 1. O que eu quero melhorar na minha rotina de estudo?
-2. Qual parte da Administracao Tech parece mais util para mim agora?
+2. Qual parte da Administração Tech parece mais útil para mim agora?
 3. Que tarefa repetitiva eu gostaria de organizar ou automatizar no futuro?
-4. O que pode atrapalhar minha constancia?
-5. Qual sera meu proximo passo concreto?
+4. O que pode atrapalhar minha constância?
+5. Qual será meu próximo passo concreto?
 
-## Criterio Para Avancar
+## Critério para avançar
 
-Avance para o proximo modulo quando voce tiver:
+Avance para o próximo módulo quando você tiver:
 
 - criado um local para guardar seus estudos;
-- criado o diario de aprendizado;
-- definido uma rotina minima;
+- criado o diário de aprendizado;
+- definido uma rotina mínima;
 - preenchido o plano semanal;
-- registrado uma duvida ou objetivo para continuar.
+- registrado uma dúvida ou objetivo para continuar.
 
-## Proximo Passo
+## Próximo passo
 
-Depois desta aula, siga para o Modulo 1: Fundamentos de Administracao Digital.
+Depois desta aula, siga para o Módulo 1: Fundamentos de Administração Digital.
 
-Enquanto o Modulo 1 ainda estiver sendo estruturado, voce pode ler a visao geral da trilha em [Trilha De Aprendizado](../02-trilha-de-aprendizado.md) e escolher uma rotina real para observar durante a semana.
+Enquanto o Módulo 1 ainda estiver sendo estruturado, você pode ler a visão geral da trilha em [Trilha de Aprendizado](../02-trilha-de-aprendizado.md) e escolher uma rotina real para observar durante a semana.

@@ -1,27 +1,27 @@
 ---
-name: Sugestao de modulo
-about: Sugira um novo modulo ou melhoria na trilha de aprendizado
-title: "[Modulo] "
+name: Sugestão de módulo
+about: Sugira um novo módulo ou melhoria na trilha de aprendizado
+title: "[Módulo] "
 labels: conteudo, modulo
 assignees: ""
 ---
 
-## Qual modulo voce sugere?
+## Qual módulo você sugere?
 
 Descreva o tema.
 
-## Por que este modulo e importante?
+## Por que este módulo é importante?
 
 Explique como ele ajuda a trilha.
 
-## Para qual publico ele seria util?
+## Para qual público ele seria útil?
 
 Exemplo: iniciantes, estudantes, profissionais, educadores.
 
-## Quais topicos deveriam entrar?
+## Quais tópicos deveriam entrar?
 
 Liste os principais assuntos.
 
-## Qual entregavel pratico voce sugere?
+## Qual entregável prático você sugere?
 
 Exemplo: planilha, mapa de processo, prompt, checklist, painel, documento.

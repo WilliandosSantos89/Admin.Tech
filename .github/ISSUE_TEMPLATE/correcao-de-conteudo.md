@@ -1,14 +1,14 @@
 ---
-name: Correcao de conteudo
+name: Correção de conteúdo
 about: Aponte erro, trecho confuso ou link quebrado
-title: "[Correcao] "
+title: "[Correção] "
 labels: correcao, conteudo
 assignees: ""
 ---
 
-## Onde esta o problema?
+## Onde está o problema?
 
-Informe o arquivo, secao ou link.
+Informe o arquivo, seção ou link.
 
 ## O que precisa ser corrigido?
 
@@ -16,8 +16,8 @@ Descreva o erro ou trecho confuso.
 
 ## Qual seria a melhoria?
 
-Sugira uma nova redacao, fonte ou ajuste.
+Sugira uma nova redação, fonte ou ajuste.
 
-## Observacoes
+## Observações
 
 Inclua contexto adicional, se houver.

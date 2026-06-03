@@ -1,46 +1,46 @@
-# Visao Geral
+# Visão geral
 
-Administracao Tech e uma trilha autodidata aberta sobre Administracao Digital, Automacao e Inteligencia Artificial.
+Administração Tech é uma trilha autodidata aberta sobre Administração Digital, Automação e Inteligência Artificial.
 
-A proposta e transformar um plano de estudos em um material vivo, escrito em Markdown, facil de ler, adaptar e melhorar coletivamente no GitHub.
+A proposta é transformar um plano de estudos em um material vivo, escrito em Markdown, fácil de ler, adaptar e melhorar coletivamente no GitHub.
 
 ## Objetivo
 
 Criar um caminho de aprendizado que ajude iniciantes a:
 
-- entender fundamentos de administracao em contextos digitais;
-- organizar processos, rotinas e informacoes;
-- usar ferramentas digitais para melhorar produtividade;
-- aplicar IA de forma critica, util e responsavel;
-- construir projetos praticos que possam virar portifolio.
+- entender fundamentos de administração em contextos digitais;
+- organizar processos, rotinas e informações;
+- usar ferramentas digitais para melhorar a produtividade;
+- aplicar IA de forma crítica, útil e responsável;
+- construir projetos práticos que possam virar portfólio.
 
-## Principios
+## Princípios
 
-- **Aprender fazendo:** cada modulo deve levar a uma atividade pratica.
-- **Clareza antes de complexidade:** o conteudo deve ser acessivel para iniciantes.
-- **Ferramentas como meio:** tecnologia serve para resolver problemas reais, nao para enfeitar o estudo.
-- **IA com criterio:** usar IA para apoiar raciocinio, pesquisa, analise e producao, sem terceirizar responsabilidade.
-- **Colaboracao aberta:** melhorias podem vir de estudantes, professores, profissionais e curiosos.
+- **Aprender fazendo:** cada módulo deve levar a uma atividade prática.
+- **Clareza antes de complexidade:** o conteúdo deve ser acessível para iniciantes.
+- **Ferramentas como meio:** tecnologia serve para resolver problemas reais, não para enfeitar o estudo.
+- **IA com critério:** usar IA para apoiar raciocínio, pesquisa, análise e produção, sem terceirizar responsabilidade.
+- **Colaboração aberta:** melhorias podem vir de estudantes, professores, profissionais e curiosos.
 
-## Resultado Esperado
+## Resultado esperado
 
-Ao final da trilha, a pessoa estudante devera ter construido um pequeno portifolio com:
+Ao final da trilha, a pessoa estudante deverá ter construído um pequeno portfólio com:
 
 - mapa de uma rotina administrativa;
-- diagnostico de processo;
+- diagnóstico de processo;
 - plano de melhoria;
 - planilha ou painel simples de acompanhamento;
-- automacao documentada;
-- biblioteca de prompts uteis;
-- projeto final integrando administracao, automacao e IA.
+- automação documentada;
+- biblioteca de prompts úteis;
+- projeto final integrando administração, automação e IA.
 
-## Como Este Material Deve Evoluir
+## Como este material deve evoluir
 
-Esta primeira versao organiza a base. As proximas melhorias podem incluir:
+Esta primeira versão organiza a base. As próximas melhorias podem incluir:
 
-- ementas mais detalhadas por modulo;
-- atividades com criterios de avaliacao;
+- ementas mais detalhadas por módulo;
+- atividades com critérios de avaliação;
 - estudos de caso brasileiros;
 - exemplos de prompts;
 - modelos de documentos e planilhas;
-- versao publicada em GitHub Pages ou MkDocs.
+- versão publicada em GitHub Pages ou MkDocs.

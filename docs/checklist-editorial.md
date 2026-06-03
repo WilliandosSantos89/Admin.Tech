@@ -1,38 +1,38 @@
-# Checklist Editorial
+# Checklist editorial
 
-Use este checklist antes de publicar ou revisar contribuicoes.
+Use este checklist antes de publicar ou revisar contribuições.
 
 ## Clareza
 
 - [ ] O texto usa linguagem simples.
-- [ ] Conceitos importantes sao explicados.
-- [ ] Jargoes foram evitados ou definidos.
-- [ ] O objetivo do trecho esta claro.
+- [ ] Conceitos importantes são explicados.
+- [ ] Jargões foram evitados ou definidos.
+- [ ] O objetivo do trecho está claro.
 
 ## Acessibilidade
 
 - [ ] O material funciona para iniciantes.
-- [ ] As instrucoes nao dependem de conhecimento tecnico avancado.
+- [ ] As instruções não dependem de conhecimento técnico avançado.
 - [ ] Links possuem contexto.
-- [ ] Listas e tabelas estao faceis de ler.
+- [ ] Listas e tabelas estão fáceis de ler.
 
-## Utilidade Pratica
+## Utilidade prática
 
-- [ ] O conteudo ajuda a pessoa estudante a fazer algo concreto.
-- [ ] Existe atividade, exemplo ou entregavel quando fizer sentido.
-- [ ] A recomendacao de ferramenta tem objetivo claro.
+- [ ] O conteúdo ajuda a pessoa estudante a fazer algo concreto.
+- [ ] Existe atividade, exemplo ou entregável quando fizer sentido.
+- [ ] A recomendação de ferramenta tem objetivo claro.
 - [ ] O texto evita promessas exageradas.
 
 ## Confiabilidade
 
-- [ ] Referencias externas foram verificadas.
-- [ ] Dados e afirmacoes importantes possuem fonte ou contexto.
+- [ ] Referências externas foram verificadas.
+- [ ] Dados e afirmações importantes possuem fonte ou contexto.
 - [ ] Resultados gerados por IA foram revisados.
-- [ ] O conteudo nao copia material protegido sem permissao.
+- [ ] O conteúdo não copia material protegido sem permissão.
 
-## Consistencia
+## Consistência
 
 - [ ] O tom combina com o restante da trilha.
-- [ ] Os nomes dos modulos estao consistentes.
+- [ ] Os nomes dos módulos estão consistentes.
 - [ ] Links internos funcionam.
-- [ ] A contribuicao respeita a licenca e o guia de contribuicao.
+- [ ] A contribuição respeita a licença e o guia de contribuição.

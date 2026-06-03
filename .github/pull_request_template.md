@@ -2,22 +2,22 @@
 
 Descreva brevemente o que foi alterado.
 
-## Tipo de mudanca
+## Tipo de mudança
 
-- [ ] Correcao de texto
-- [ ] Novo conteudo
+- [ ] Correção de texto
+- [ ] Novo conteúdo
 - [ ] Melhoria de estrutura
-- [ ] Nova referencia
-- [ ] Novo projeto pratico
+- [ ] Nova referência
+- [ ] Novo projeto prático
 - [ ] Outro
 
 ## Checklist
 
 - [ ] Li o `CONTRIBUTING.md`.
-- [ ] Usei linguagem clara e acessivel.
+- [ ] Usei linguagem clara e acessível.
 - [ ] Revisei links internos.
-- [ ] Indiquei fontes quando adicionei referencias.
-- [ ] A mudanca esta alinhada ao objetivo da trilha.
+- [ ] Indiquei fontes quando adicionei referências.
+- [ ] A mudança está alinhada ao objetivo da trilha.
 
 ## Issue relacionada
 
