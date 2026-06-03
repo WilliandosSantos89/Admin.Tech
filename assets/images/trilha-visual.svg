@@ -1,0 +1,53 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa visual da trilha Administração Tech</title>
+  <desc id="desc">Linha de aprendizado com oito etapas, da preparação ao projeto final.</desc>
+  <rect width="1100" height="360" rx="24" fill="#F8FAFC"/>
+  <path d="M110 190H990" stroke="#CBD5E1" stroke-width="6" stroke-linecap="round"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="62" font-size="28" font-weight="700" fill="#0F172A">Mapa visual da trilha</text>
+    <text x="70" y="96" font-size="16" fill="#475569">Um caminho progressivo: preparar, entender, organizar, medir, automatizar e publicar.</text>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#334155" text-anchor="middle">
+    <g>
+      <circle cx="110" cy="190" r="34" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="4"/>
+      <text x="110" y="195" font-size="22" font-weight="700" fill="#1D4ED8">0</text>
+      <text x="110" y="250">Preparação</text>
+    </g>
+    <g>
+      <circle cx="236" cy="190" r="34" fill="#CCFBF1" stroke="#14B8A6" stroke-width="4"/>
+      <text x="236" y="195" font-size="22" font-weight="700" fill="#0F766E">1</text>
+      <text x="236" y="250">Administração</text>
+      <text x="236" y="268">Digital</text>
+    </g>
+    <g>
+      <circle cx="362" cy="190" r="34" fill="#FEF3C7" stroke="#F59E0B" stroke-width="4"/>
+      <text x="362" y="195" font-size="22" font-weight="700" fill="#B45309">2</text>
+      <text x="362" y="250">Processos</text>
+    </g>
+    <g>
+      <circle cx="488" cy="190" r="34" fill="#E0F2FE" stroke="#0284C7" stroke-width="4"/>
+      <text x="488" y="195" font-size="22" font-weight="700" fill="#0369A1">3</text>
+      <text x="488" y="250">Produtividade</text>
+    </g>
+    <g>
+      <circle cx="614" cy="190" r="34" fill="#DCFCE7" stroke="#22C55E" stroke-width="4"/>
+      <text x="614" y="195" font-size="22" font-weight="700" fill="#15803D">4</text>
+      <text x="614" y="250">Dados</text>
+    </g>
+    <g>
+      <circle cx="740" cy="190" r="34" fill="#FAE8FF" stroke="#A855F7" stroke-width="4"/>
+      <text x="740" y="195" font-size="22" font-weight="700" fill="#7E22CE">5</text>
+      <text x="740" y="250">Automação</text>
+    </g>
+    <g>
+      <circle cx="866" cy="190" r="34" fill="#FFE4E6" stroke="#F43F5E" stroke-width="4"/>
+      <text x="866" y="195" font-size="22" font-weight="700" fill="#BE123C">6</text>
+      <text x="866" y="250">IA aplicada</text>
+    </g>
+    <g>
+      <circle cx="990" cy="190" r="34" fill="#E2E8F0" stroke="#334155" stroke-width="4"/>
+      <text x="990" y="195" font-size="22" font-weight="700" fill="#0F172A">7</text>
+      <text x="990" y="250">Projeto final</text>
+    </g>
+  </g>
+</svg>

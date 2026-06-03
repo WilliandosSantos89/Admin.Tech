@@ -1,0 +1,11 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Inteligência Artificial</title>
+  <desc id="desc">Ícone minimalista de rede neural e brilho.</desc>
+  <circle cx="48" cy="48" r="28" fill="#F8FAFC" stroke="#475569" stroke-width="3"/>
+  <circle cx="36" cy="38" r="5" fill="#1D4ED8"/>
+  <circle cx="58" cy="34" r="5" fill="#14B8A6"/>
+  <circle cx="60" cy="60" r="5" fill="#F59E0B"/>
+  <circle cx="34" cy="62" r="5" fill="#14B8A6"/>
+  <path d="M40 39L54 35M39 42L57 57M38 61L55 60M58 39L60 55" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 18L75 25L82 28L75 31L72 38L69 31L62 28L69 25L72 18Z" fill="#1D4ED8"/>
+</svg>

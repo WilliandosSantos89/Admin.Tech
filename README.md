@@ -1,10 +1,46 @@
-# Administração Tech
+<p align="center">
+  <img src="assets/images/hero-admin-tech.png" alt="Mesa de estudos minimalista com laptop, fluxos de automação, dados e elementos de inteligência artificial." width="100%">
+</p>
 
-Uma trilha autodidata aberta para aprender Administração Digital, Automação e Inteligência Artificial por meio de projetos práticos.
+<h1 align="center">Administração Tech</h1>
+
+<p align="center">
+  Uma trilha autodidata aberta para aprender Administração Digital, Automação e Inteligência Artificial por meio de projetos práticos.
+</p>
+
+<p align="center">
+  <a href="docs/modulos/modulo-00-preparacao.md"><strong>Começar pelo Módulo 0</strong></a>
+  ·
+  <a href="docs/02-trilha-de-aprendizado.md">Ver trilha completa</a>
+  ·
+  <a href="CONTRIBUTING.md">Contribuir</a>
+</p>
+
+> Status: versão inicial colaborativa. O material está em construção e recebe sugestões por Issues e Pull Requests.
+
+## Visão rápida
 
 O objetivo do projeto é reunir, em Markdown, um caminho de estudo acessível para pessoas que querem entender administração com uma visão atual: processos, dados, tecnologia, automação, IA, produtividade e criação de soluções reais.
 
-> Status: versão inicial colaborativa. O material está em construção e recebe sugestões por Issues e Pull Requests.
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="assets/icons/admin-digital.svg" alt="" width="56"><br>
+      <strong>Administração Digital</strong><br>
+      Fundamentos de gestão, processos, organização, estratégia, projetos e tomada de decisão.
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/icons/automacao.svg" alt="" width="56"><br>
+      <strong>Automação</strong><br>
+      Ferramentas digitais para reduzir tarefas repetitivas e criar fluxos mais eficientes.
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/icons/ia.svg" alt="" width="56"><br>
+      <strong>Inteligência Artificial</strong><br>
+      IA aplicada a pesquisa, análise, planejamento, escrita, atendimento e decisões.
+    </td>
+  </tr>
+</table>
 
 ## Para quem é
 
@@ -17,26 +53,36 @@ Ela também pode ser útil para:
 - pessoas interessadas em IA aplicada a negócios, projetos e produtividade;
 - educadores que desejam adaptar uma trilha aberta para aulas, oficinas ou grupos de estudo.
 
-## Proposta
-
-A Administração Tech combina três eixos:
-
-- **Administração Digital:** fundamentos de gestão, processos, organização, estratégia, projetos e tomada de decisão.
-- **Automação:** uso de ferramentas digitais para reduzir trabalho repetitivo, organizar informações e criar fluxos mais eficientes.
-- **Inteligência Artificial:** aplicação prática de IA para pesquisa, análise, planejamento, escrita, atendimento, dados e apoio a decisões.
-
-O foco não é apenas consumir conteúdo. A ideia é estudar criando entregáveis: diagnósticos, mapas de processo, dashboards simples, prompts, automações, documentos, planos de ação e pequenos projetos de portfólio.
-
 ## Como estudar
 
-1. Comece pela [visão geral](docs/00-visao-geral.md).
-2. Leia [como estudar](docs/01-como-estudar.md) para montar sua rotina.
-3. Siga a [trilha de aprendizado](docs/02-trilha-de-aprendizado.md) módulo por módulo.
-4. Escolha um desafio em [projetos práticos](docs/03-projetos-praticos.md).
-5. Consulte [ferramentas](docs/04-ferramentas.md) e [referências](docs/05-referencias.md) quando precisar.
-6. Registre o que aprendeu e, se puder, contribua com melhorias.
+<table>
+  <tr>
+    <td width="50%">
+      <strong>1. Leia com calma</strong><br>
+      Comece pela <a href="docs/00-visao-geral.md">visão geral</a> e entenda a proposta.
+    </td>
+    <td width="50%">
+      <strong>2. Crie uma rotina</strong><br>
+      Use o guia <a href="docs/01-como-estudar.md">como estudar</a> para montar seu ritmo.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>3. Faça entregáveis</strong><br>
+      Aplique cada tema em mapas, planilhas, prompts, automações e projetos.
+    </td>
+    <td width="50%">
+      <strong>4. Compartilhe melhorias</strong><br>
+      Abra Issues, envie Pull Requests e ajude a tornar a trilha mais clara.
+    </td>
+  </tr>
+</table>
 
-## Mapa da trilha
+## Mapa visual da trilha
+
+<p align="center">
+  <img src="assets/images/trilha-visual.svg" alt="Mapa visual da trilha Administração Tech, da preparação ao projeto final." width="100%">
+</p>
 
 | Etapa | Tema | Entregável sugerido |
 | --- | --- | --- |
@@ -48,6 +94,30 @@ O foco não é apenas consumir conteúdo. A ideia é estudar criando entregávei
 | 5 | Automação administrativa | fluxo automatizado documentado |
 | 6 | IA aplicada à administração | biblioteca de prompts e casos de uso |
 | 7 | Projetos e portfólio | projeto final publicado |
+
+## Aprender fazendo
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="assets/icons/dados.svg" alt="" width="52"><br>
+      <strong>Dados simples</strong><br>
+      Planilhas, indicadores e painéis para apoiar decisões.
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/icons/projetos.svg" alt="" width="52"><br>
+      <strong>Projetos práticos</strong><br>
+      Atividades aplicadas para construir um portfólio.
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/icons/comunidade.svg" alt="" width="52"><br>
+      <strong>Comunidade aberta</strong><br>
+      Conteúdo pensado para colaboração no GitHub.
+    </td>
+  </tr>
+</table>
+
+O foco não é apenas consumir conteúdo. A ideia é estudar criando entregáveis: diagnósticos, mapas de processo, dashboards simples, prompts, automações, documentos, planos de ação e pequenos projetos de portfólio.
 
 ## Estrutura do repositório
 
@@ -71,9 +141,7 @@ Você pode colaborar de várias formas:
 - adaptar atividades para diferentes perfis de estudante;
 - revisar clareza, acessibilidade e organização do material.
 
-Antes de contribuir, leia o [guia de contribuição](CONTRIBUTING.md).
-
-Para revisar um texto antes de enviar, use o [checklist editorial](docs/checklist-editorial.md).
+Antes de contribuir, leia o [guia de contribuição](CONTRIBUTING.md). Para revisar um texto antes de enviar, use o [checklist editorial](docs/checklist-editorial.md).
 
 ## Licença
 

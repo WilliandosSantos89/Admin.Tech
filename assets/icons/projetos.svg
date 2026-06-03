@@ -1,0 +1,9 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Projetos Práticos</title>
+  <desc id="desc">Ícone minimalista de portfólio com cartões de projeto.</desc>
+  <rect x="18" y="22" width="60" height="52" rx="12" fill="#F8FAFC" stroke="#0F172A" stroke-width="3"/>
+  <path d="M34 22V18C34 14.7 36.7 12 40 12H56C59.3 12 62 14.7 62 18V22" stroke="#0F172A" stroke-width="3" stroke-linecap="round"/>
+  <rect x="30" y="34" width="36" height="8" rx="4" fill="#14B8A6"/>
+  <rect x="30" y="50" width="18" height="8" rx="4" fill="#1D4ED8"/>
+  <rect x="52" y="50" width="14" height="8" rx="4" fill="#F59E0B"/>
+</svg>
