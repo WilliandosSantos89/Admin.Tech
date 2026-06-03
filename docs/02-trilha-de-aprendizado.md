@@ -4,6 +4,8 @@ Esta trilha organiza o estudo em etapas progressivas. Cada modulo deve gerar um 
 
 ## Modulo 0: Preparacao
 
+Aula completa: [Modulo 0: Preparacao e metodo autodidata](modulos/modulo-00-preparacao.md).
+
 **Objetivo:** montar o ambiente de estudo e definir uma rotina realista.
 
 Estude:

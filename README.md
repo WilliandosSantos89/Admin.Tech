@@ -40,7 +40,7 @@ O foco nao e apenas consumir conteudo. A ideia e estudar criando entregaveis: di
 
 | Etapa | Tema | Entregavel sugerido |
 | --- | --- | --- |
-| 0 | Preparacao e metodo autodidata | plano semanal de estudos |
+| 0 | [Preparacao e metodo autodidata](docs/modulos/modulo-00-preparacao.md) | plano semanal de estudos |
 | 1 | Fundamentos de Administracao Digital | mapa de uma organizacao ou rotina |
 | 2 | Processos e melhoria continua | mapa de processo com gargalos |
 | 3 | Produtividade e ferramentas digitais | sistema pessoal de organizacao |
@@ -57,6 +57,7 @@ O foco nao e apenas consumir conteudo. A ideia e estudar criando entregaveis: di
 - [docs/03-projetos-praticos.md](docs/03-projetos-praticos.md): desafios para aplicar o aprendizado.
 - [docs/04-ferramentas.md](docs/04-ferramentas.md): ferramentas sugeridas por categoria.
 - [docs/05-referencias.md](docs/05-referencias.md): livros, cursos, documentacoes e fontes abertas.
+- [docs/modulos/modulo-00-preparacao.md](docs/modulos/modulo-00-preparacao.md): primeira aula para iniciar os estudos.
 - [docs/checklist-editorial.md](docs/checklist-editorial.md): criterios para revisar contribuicoes.
 - [CONTRIBUTING.md](CONTRIBUTING.md): como colaborar.
 
