@@ -1,21 +1,24 @@
-MIT License
+# Creative Commons Attribution 4.0 International
 
-Copyright (c) 2026 Willian dos Santos
+O conteudo educacional deste repositorio esta licenciado sob a Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Voce tem permissao para:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- compartilhar: copiar e redistribuir o material em qualquer suporte ou formato;
+- adaptar: remixar, transformar e criar a partir do material para qualquer fim, inclusive comercial.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Sob os seguintes termos:
+
+- atribuicao: voce deve dar o credito apropriado, fornecer um link para a licenca e indicar se mudancas foram feitas.
+
+Texto legal completo:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Resumo da licenca:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Willian dos Santos e contribuidores.
+
+Observacao: se este repositorio passar a incluir codigo, scripts ou ferramentas proprias no futuro, esses arquivos poderao receber uma licenca de software separada, indicada no proprio arquivo ou em documento especifico.
