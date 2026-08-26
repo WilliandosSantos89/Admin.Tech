@@ -2,6 +2,8 @@
 
 Os projetos ajudam a transformar estudo em experiência concreta. Cada projeto pode ser feito de forma simples, usando ferramentas gratuitas ou de fácil acesso.
 
+Para construir um portfólio cumulativo, aplique os projetos ao [caso integrador brasileiro Rota Certa](06-caso-integrador-brasileiro.md). Também é possível adaptar as atividades para uma rotina real, desde que dados pessoais e informações sensíveis sejam protegidos.
+
 ## Projeto 1: Diagnóstico de Rotina Administrativa
 
 Escolha uma rotina, como controle de documentos, atendimento, compras, agenda ou organização de tarefas.
