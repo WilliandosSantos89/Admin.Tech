@@ -127,6 +127,7 @@ O foco não é apenas consumir conteúdo. A ideia é estudar criando entregávei
 - [docs/03-projetos-praticos.md](docs/03-projetos-praticos.md): desafios para aplicar o aprendizado.
 - [docs/04-ferramentas.md](docs/04-ferramentas.md): ferramentas sugeridas por categoria.
 - [docs/05-referencias.md](docs/05-referencias.md): livros, cursos, documentações e fontes abertas.
+- [docs/06-caso-integrador-brasileiro.md](docs/06-caso-integrador-brasileiro.md): caso fictício que conecta atividades e entregáveis dos módulos 0 a 7.
 - [docs/modulos/modulo-00-preparacao.md](docs/modulos/modulo-00-preparacao.md): primeira aula para iniciar os estudos.
 - [docs/checklist-editorial.md](docs/checklist-editorial.md): critérios para revisar contribuições.
 - [CONTRIBUTING.md](CONTRIBUTING.md): como colaborar.

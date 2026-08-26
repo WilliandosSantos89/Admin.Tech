@@ -2,6 +2,8 @@
 
 Esta trilha organiza o estudo em etapas progressivas. Cada módulo deve gerar um entregável prático.
 
+Os módulos podem ser aplicados ao [caso integrador brasileiro Rota Certa](06-caso-integrador-brasileiro.md), uma microempresa fictícia de entregas e apoio administrativo que será melhorada progressivamente ao longo da trilha.
+
 ## Módulo 0: Preparação
 
 Aula completa: [Módulo 0: Preparação e método autodidata](modulos/modulo-00-preparacao.md).
