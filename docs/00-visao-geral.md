@@ -1,8 +1,8 @@
 # Visão geral
 
-Administração Tech é uma trilha autodidata aberta sobre Administração Digital, Automação e Inteligência Artificial.
+Administração Tech é uma **trilha autodidata introdutória e prática para transformar problemas administrativos em soluções com processos, dados, automação e IA responsável**.
 
-A proposta é transformar um plano de estudos em um material vivo, escrito em Markdown, fácil de ler, adaptar e melhorar coletivamente no GitHub.
+A proposta é transformar um plano de estudos em um material vivo, escrito em Markdown, fácil de ler, aplicar, adaptar e melhorar coletivamente no GitHub.
 
 ## Objetivo
 
@@ -13,6 +13,19 @@ Criar um caminho de aprendizado que ajude iniciantes a:
 - usar ferramentas digitais para melhorar a produtividade;
 - aplicar IA de forma crítica, útil e responsável;
 - construir projetos práticos que possam virar portfólio.
+
+## Posicionamento e escopo da v0.2
+
+A v0.2 assume uma escolha clara: oferecer uma trilha introdutória, e não reproduzir uma graduação em Administração.
+
+- **Público:** iniciantes adultos, estudantes e profissionais interessados em gestão e tecnologia.
+- **Promessa:** conduzir a pessoa de um problema administrativo simples até uma solução documentada e apresentável.
+- **Pré-requisitos:** leitura e escrita básicas, acesso à internet e disposição para aprender fazendo; programação não é obrigatória.
+- **Duração estimada:** 8 a 12 semanas, com três sessões de 45 a 90 minutos por semana, totalizando aproximadamente 30 a 50 horas.
+- **Resultado final:** portfólio cumulativo com diagnóstico, processo, dados, automação, IA responsável e projeto integrador.
+- **Limites:** o material não concede diploma, não equivale a curso superior e não substitui formação acadêmica ou certificação profissional.
+
+A definição completa e os critérios usados para manter o projeto dentro desse escopo estão em [Posicionamento e escopo da v0.2](07-posicionamento-e-escopo.md).
 
 ## Princípios
 
