@@ -18,6 +18,21 @@
 
 > Status: versão inicial colaborativa. O material está em construção e recebe sugestões por Issues e Pull Requests.
 
+## Posicionamento da v0.2
+
+Administração Tech é uma **trilha autodidata introdutória e prática para transformar problemas administrativos em soluções com processos, dados, automação e IA responsável**.
+
+| Aspecto | Definição |
+| --- | --- |
+| Público | Iniciantes adultos, estudantes e profissionais que desejam aplicar gestão e tecnologia em rotinas reais. |
+| Promessa | Sair de um problema administrativo simples e chegar a uma solução documentada, testável e apresentável em portfólio. |
+| Pré-requisitos | Leitura e escrita básicas, acesso a computador ou celular com internet e disposição para praticar; não é necessário saber programar. |
+| Duração estimada | 8 a 12 semanas, com três sessões semanais de 45 a 90 minutos; aproximadamente 30 a 50 horas no total. |
+| Resultado final | Um portfólio cumulativo com diagnóstico, mapa de processo, indicadores, automação, uso responsável de IA e projeto integrador. |
+| Limites | Não é graduação, curso superior, certificação profissional ou substituto de formação acadêmica regulamentada. |
+
+Veja a [declaração completa de posicionamento e escopo](docs/07-posicionamento-e-escopo.md).
+
 ## Visão rápida
 
 O objetivo do projeto é reunir, em Markdown, um caminho de estudo acessível para pessoas que querem entender administração com uma visão atual: processos, dados, tecnologia, automação, IA, produtividade e criação de soluções reais.
@@ -128,6 +143,7 @@ O foco não é apenas consumir conteúdo. A ideia é estudar criando entregávei
 - [docs/04-ferramentas.md](docs/04-ferramentas.md): ferramentas sugeridas por categoria.
 - [docs/05-referencias.md](docs/05-referencias.md): livros, cursos, documentações e fontes abertas.
 - [docs/06-caso-integrador-brasileiro.md](docs/06-caso-integrador-brasileiro.md): caso fictício que conecta atividades e entregáveis dos módulos 0 a 7.
+- [docs/07-posicionamento-e-escopo.md](docs/07-posicionamento-e-escopo.md): público, promessa, duração, limites e resultado da v0.2.
 - [docs/modulos/modulo-00-preparacao.md](docs/modulos/modulo-00-preparacao.md): primeira aula para iniciar os estudos.
 - [docs/checklist-editorial.md](docs/checklist-editorial.md): critérios para revisar contribuições.
 - [CONTRIBUTING.md](CONTRIBUTING.md): como colaborar.
