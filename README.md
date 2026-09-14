@@ -146,6 +146,7 @@ O foco não é apenas consumir conteúdo. A ideia é estudar criando entregávei
 - [docs/07-posicionamento-e-escopo.md](docs/07-posicionamento-e-escopo.md): público, promessa, duração, limites e resultado da v0.2.
 - [docs/08-matriz-curricular.md](docs/08-matriz-curricular.md): progressão, carga, atividades, avaliações e ligações entre os módulos 0 a 7.
 - [docs/modulos/modulo-00-preparacao.md](docs/modulos/modulo-00-preparacao.md): primeira aula para iniciar os estudos.
+- [docs/modulos/template-modulo.md](docs/modulos/template-modulo.md): modelo oficial para produzir e revisar os módulos 1 a 7.
 - [docs/checklist-editorial.md](docs/checklist-editorial.md): critérios para revisar contribuições.
 - [CONTRIBUTING.md](CONTRIBUTING.md): como colaborar.
 
