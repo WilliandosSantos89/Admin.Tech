@@ -58,6 +58,17 @@ Use os modelos disponíveis em `.github/ISSUE_TEMPLATE/` para:
 
 Explique o problema ou sugestão com contexto suficiente para outra pessoa entender.
 
+## Como criar ou revisar um módulo
+
+1. copie o [template pedagógico oficial](docs/modulos/template-modulo.md);
+2. confira objetivos, carga, entregável e continuidade na [matriz curricular](docs/08-matriz-curricular.md);
+3. use o caso Rota Certa ou outro exemplo brasileiro com dados fictícios ou protegidos;
+4. inclua mapa visual com alternativa em texto, exemplo resolvido, atividade, desafio, quiz, rubrica e referências verificáveis;
+5. ofereça alternativa acessível quando uma ferramenta, conta ou pagamento não for indispensável;
+6. aplique o [checklist editorial](docs/checklist-editorial.md) antes do Pull Request.
+
+Não transforme o template em uma lista mecânica. As seções devem conduzir a pessoa estudante do problema ao entregável e preparar o módulo seguinte.
+
 ## Como enviar um Pull Request
 
 Ao abrir um Pull Request:
