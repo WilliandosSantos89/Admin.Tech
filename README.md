@@ -102,7 +102,7 @@ Ela também pode ser útil para:
 | Etapa | Tema | Entregável sugerido |
 | --- | --- | --- |
 | 0 | [Preparação e método autodidata](docs/modulos/modulo-00-preparacao.md) | plano semanal de estudos |
-| 1 | Fundamentos de Administração Digital | mapa de uma organização ou rotina |
+| 1 | [Fundamentos de Administração Digital](docs/modulos/modulo-01-administracao-digital.md) | mapa de uma organização ou rotina |
 | 2 | Processos e melhoria contínua | mapa de processo com gargalos |
 | 3 | Produtividade e ferramentas digitais | sistema pessoal de organização |
 | 4 | Dados para decisão | planilha ou painel simples |
@@ -146,6 +146,7 @@ O foco não é apenas consumir conteúdo. A ideia é estudar criando entregávei
 - [docs/07-posicionamento-e-escopo.md](docs/07-posicionamento-e-escopo.md): público, promessa, duração, limites e resultado da v0.2.
 - [docs/08-matriz-curricular.md](docs/08-matriz-curricular.md): progressão, carga, atividades, avaliações e ligações entre os módulos 0 a 7.
 - [docs/modulos/modulo-00-preparacao.md](docs/modulos/modulo-00-preparacao.md): primeira aula para iniciar os estudos.
+- [docs/modulos/modulo-01-administracao-digital.md](docs/modulos/modulo-01-administracao-digital.md): aula completa de fundamentos de Administração Digital.
 - [docs/checklist-editorial.md](docs/checklist-editorial.md): critérios para revisar contribuições.
 - [CONTRIBUTING.md](CONTRIBUTING.md): como colaborar.
 

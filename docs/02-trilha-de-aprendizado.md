@@ -25,6 +25,8 @@ Entregável:
 
 ## Módulo 1: Fundamentos de Administração Digital
 
+Aula completa: [Módulo 1: Administração Digital — organização e problema](modulos/modulo-01-administracao-digital.md).
+
 **Objetivo:** entender como a administração muda quando processos, dados e ferramentas digitais entram na rotina.
 
 Estude:
